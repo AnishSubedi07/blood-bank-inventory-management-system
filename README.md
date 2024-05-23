@@ -4,7 +4,7 @@
 -Import all the packages from package.json for both client side and server side
 ```
 ```bash
--Add a .env to the server side with information to connect to a database
+-Add .env to the server and client side with information to connect to a database and api.
 ```
 ```bash
 -Run 'npm run dev' in your console
